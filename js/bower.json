@@ -1,0 +1,10 @@
+{
+  "name": "Backbone-Multipage-Boilerplate",
+  "version": "1.0.0",
+  "dependencies": {
+    "backbone-amd": "~1.0.0",
+    "underscore-amd": "~1.4.4",
+    "requirejs": "~2.1.6",
+    "jquery": "1.9"
+  }
+}

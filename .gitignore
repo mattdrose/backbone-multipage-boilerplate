@@ -1,0 +1,5 @@
+# Build and Release Folders
+js/dist/
+js/src/vendors/
+
+.DS_Store

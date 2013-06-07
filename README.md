@@ -25,7 +25,7 @@ git clone https://github.com/mattdrose/backbone-multipage-boilerplate.git
 
 Go into the ``js/`` directory
 ```
-cd backbone-multipage-boilerplate
+cd backbone-multipage-boilerplate/js
 ```
 
 Install the dependencies

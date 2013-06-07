@@ -19,6 +19,9 @@ No reason really. I just wanted to share my setup.
 ## Setup
 
 Clone this repository
+```
+git clone https://github.com/mattdrose/backbone-multipage-boilerplate.git
+```
 
 Go into the ``js/`` directory
 ```
